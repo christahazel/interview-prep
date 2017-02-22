@@ -4,4 +4,4 @@ function greatThanThree (numOne, numTwo){
 	if (numOne > 3) || (numTwo > 3){
 		return true; 
 	}
-}
+};

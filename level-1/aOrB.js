@@ -3,6 +3,6 @@
 function aOrB (letter){ 
 	if (letter == a) 
 		return true
-	else if (letter ==b) return true
+	else if (letter == b) return true
 		else return false
-}
+};
